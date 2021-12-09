@@ -1,8 +1,7 @@
-header {
+#top-nav {
   background-color: #2c3e50;
   height: 80px;
 }
-
-#header > a:first-of-type {
-  border: ;
+#under-nav {
+  background-color: #1abc9c;
 }
