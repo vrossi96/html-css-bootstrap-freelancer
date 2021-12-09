@@ -5,3 +5,26 @@
 #under-nav {
   background-color: #1abc9c;
 }
+
+/* [class*="card_"] {
+  height: 320px;
+} */
+
+.card_first {
+  background-color: #ba4b63;
+}
+.card_second {
+  background-color: #1ea4b6;
+}
+.card_third {
+  background-color: #140f0f;
+}
+.card_fourth {
+  background-color: #1c83c1;
+}
+.card_fifth {
+  background-color: #0e38b5;
+}
+.card_sixth {
+  background-color: #ccb2a3;
+}
