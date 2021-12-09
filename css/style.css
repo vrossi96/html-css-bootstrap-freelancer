@@ -6,10 +6,6 @@
   background-color: #1abc9c;
 }
 
-/* [class*="card_"] {
-  height: 320px;
-} */
-
 .card_first {
   background-color: #ba4b63;
 }
@@ -27,4 +23,8 @@
 }
 .card_sixth {
   background-color: #ccb2a3;
+}
+
+#about {
+  background-color: #1abc9c;
 }
